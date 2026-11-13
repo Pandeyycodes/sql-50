@@ -5,13 +5,13 @@
 
 LeetCode's [SQL 50](https://leetcode.com/studyplan/top-sql-50/) study plan, in study order.
 
-**7 / 50 solved** (14%)
+**8 / 50 solved** (16%)
 
 `███░░░░░░░░░░░░░░░░░`
 
 | Section | Solved |
 |---|---|
-| Select | 4 / 5 |
+| Select | 5 / 5 ✅ |
 | Basic Joins | 3 / 9 |
 | Basic Aggregate Functions | 0 / 8 |
 | Sorting and Grouping | 0 / 7 |
@@ -19,9 +19,9 @@ LeetCode's [SQL 50](https://leetcode.com/studyplan/top-sql-50/) study plan, in s
 | Subqueries | 0 / 7 |
 | Advanced String Functions / Regex / Clause | 0 / 7 |
 
-### 1. Select (4/5)
+### 1. Select (5/5)
 
-- [ ] [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
+- [x] [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) · [my solution](01-Select/1757-recyclable-and-low-fat-products/)
 - [x] [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) · [my solution](01-Select/0584-find-customer-referee/)
 - [x] [Big Countries](https://leetcode.com/problems/big-countries/) · [my solution](01-Select/0595-big-countries/)
 - [x] [Article Views I](https://leetcode.com/problems/article-views-i/) · [my solution](01-Select/1148-article-views-i/)
