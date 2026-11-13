@@ -5,14 +5,14 @@
 
 LeetCode's [SQL 50](https://leetcode.com/studyplan/top-sql-50/) study plan, in study order.
 
-**10 / 50 solved** (20%)
+**11 / 50 solved** (22%)
 
 `████░░░░░░░░░░░░░░░░`
 
 | Section | Solved |
 |---|---|
 | Select | 5 / 5 ✅ |
-| Basic Joins | 5 / 9 |
+| Basic Joins | 6 / 9 |
 | Basic Aggregate Functions | 0 / 8 |
 | Sorting and Grouping | 0 / 7 |
 | Advanced Select and Joins | 0 / 7 |
@@ -27,14 +27,14 @@ LeetCode's [SQL 50](https://leetcode.com/studyplan/top-sql-50/) study plan, in s
 - [x] [Article Views I](https://leetcode.com/problems/article-views-i/) · [my solution](01-Select/1148-article-views-i/)
 - [x] [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) · [my solution](01-Select/1683-invalid-tweets/)
 
-### 2. Basic Joins (5/9)
+### 2. Basic Joins (6/9)
 
 - [x] [Replace Employee Id with the Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) · [my solution](02-Basic-Joins/1378-replace-employee-id-with-the-unique-identifier/)
 - [x] [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) · [my solution](02-Basic-Joins/1068-product-sales-analysis-i/)
 - [x] [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) · [my solution](02-Basic-Joins/1581-customer-who-visited-but-did-not-make-any-transactions/)
 - [x] [Rising Temperature](https://leetcode.com/problems/rising-temperature/) · [my solution](02-Basic-Joins/0197-rising-temperature/)
 - [x] [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) · [my solution](02-Basic-Joins/1661-average-time-of-process-per-machine/)
-- [ ] [Employee Bonus](https://leetcode.com/problems/employee-bonus/)
+- [x] [Employee Bonus](https://leetcode.com/problems/employee-bonus/) · [my solution](02-Basic-Joins/0577-employee-bonus/)
 - [ ] [Students and Examinations](https://leetcode.com/problems/students-and-examinations/)
 - [ ] [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)
 - [ ] [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/)
